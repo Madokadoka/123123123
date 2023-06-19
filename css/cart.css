@@ -1,0 +1,570 @@
+a{
+  text-decoration: none;
+  color: black;
+  }
+  .odi
+.knopka-cta {
+  background-color: rgb(110, 156, 159);
+  padding: 22px 50px;
+  display: flex;
+  align-items: center;
+}
+.oformit-zakaz {
+  font-family: "Raleway";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  color: white;
+  text-align: center;
+  letter-spacing: 0.34px;
+}
+.knopka-cta-outline {
+  padding: 21px 49px;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(110, 156, 159);
+}
+.obnovit-korzinu {
+  font-family: "Raleway";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(110, 156, 159);
+  text-align: center;
+  letter-spacing: 0.34px;
+}
+.knopka-cta-outline {
+  padding: 21px 49px;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(110, 156, 159);
+}
+.primenit-kupon {
+  font-family: "Raleway";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(110, 156, 159);
+  text-align: center;
+  letter-spacing: 0.34px;
+}
+.shapka {
+  padding: 0 0 2px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+.logo {
+  margin-right: 146px;
+  display: flex;
+  align-items: center;
+}
+.dress-1-1 {
+  margin-right: 11px;
+  padding: 0 3.46px 0 3.47px;
+  display: flex;
+  align-items: flex-start;
+  width: 18.07px;
+  height: 25px;
+}
+.vector {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.womazing {
+  font-family: "Raleway";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: normal;
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: 1.6px;
+}
+.menju {
+  margin-top: 3px;
+  margin-right: 209px;
+  display: flex;
+  align-items: center;
+}
+.glavnaja {
+  font-family: "Raleway";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 21px;
+  color: black;
+  letter-spacing: 0.3px;
+}
+.glavnaja:not(:last-of-type) {
+  margin-right: 45px;
+}
+.num-7-495-823-54-12 {
+  font-family: "Raleway";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 21px;
+  color: black;
+  margin-top: 3px;
+  margin-right: 67px;
+  letter-spacing: 0.3px;
+}
+.shopping-bags-1 {
+  margin-top: 2px;
+  padding: 0.23px 0;
+  display: flex;
+  align-items: center;
+}
+.group {
+  width: 24px;
+  height: 23.54px;
+}
+.zakaz-zvonka {
+  padding: 3px 4px 7px 6px;
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  right: 228px;
+  top: 3px;
+}
+.telephone-1 {
+  padding: 2.55px 2.55px 0 0;
+  position: relative;
+}
+.vector-two {
+  width: 38.65%;
+  height: 38.65%;
+  position: absolute;
+  left: 1.13px;
+  top: 3.69px;
+}
+.vector-three {
+  width: 16.29%;
+  height: 16.29%;
+  position: absolute;
+  left: 3.37px;
+  top: 5.92px;
+}
+.vector-four {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.cart {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.pervyj-jekran {
+  margin-bottom: 130px;
+  margin-left: 245px;
+  padding: 51px 0 84px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.shapka {
+  margin-bottom: 190px;
+}
+.frame-24 {
+  margin-left: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.korzina {
+  font-family: "Raleway";
+  font-size: 55px;
+  font-weight: 500;
+  line-height: 61px;
+  color: black;
+  margin-bottom: 26px;
+  letter-spacing: 1.1px;
+}
+.hlebnye-kroshki {
+  display: flex;
+  align-items: center;
+}
+.glavnaja {
+  font-family: "Raleway";
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+  color: black;
+  margin-right: 13px;
+  letter-spacing: 0.34px;
+}
+.korzina-two {
+  font-family: "Raleway";
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+  color: rgba(144, 144, 144, 1);
+  letter-spacing: 0.34px;
+}
+.osnovnoj-kontent {
+  margin-bottom: 484px;
+  margin-left: 245px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.shapka-tablicy {
+  margin-bottom: 75px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+.tovar {
+  font-family: "Raleway";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  color: black;
+  letter-spacing: 0.4px;
+}
+.tovar:not(:last-of-type) {
+  margin-right: 416px;
+}
+.cena {
+  font-family: "Raleway";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  color: black;
+  margin-right: 139px;
+  letter-spacing: 0.4px;
+}
+.kolichestvo {
+  font-family: "Raleway";
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  color: black;
+  margin-right: 167px;
+  letter-spacing: 0.4px;
+}
+.line-3 {
+  width: 1108px;
+  height: 1px;
+  background-color: rgba(204, 204, 204, 1);
+  position: absolute;
+  right: -99px;
+  bottom: -27px;
+}
+.odin-tovar-v-korzine {
+  display: flex;
+  align-items: flex-start;
+}
+.vector-3 {
+  width: 12px;
+  height: 12px;
+  margin-top: 82px;
+  margin-right: 45px;
+}
+.odin-tovar {
+  margin-right: 134px;
+  display: flex;
+  align-items: center;
+  width: 284px;
+  height: 179px;
+}
+.tovar-two {
+  margin-right: 130px;
+  overflow: hidden;
+  position: relative;
+}
+.brooke-cagle-h3vr1f8-cai-unsplash-1 {
+  width: 136px;
+  height: 205px;
+  position: absolute;
+  left: -11px;
+  top: -26px;
+}
+.futbolka-usa {
+  font-family: "Raleway";
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+  color: black;
+  letter-spacing: 0.34px;
+}
+.num-129 {
+  font-family: "Raleway";
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+  color: black;
+  margin-top: 78px;
+  letter-spacing: 0.34px;
+}
+.num-129:not(:last-of-type) {
+  margin-right: 151px;
+}
+.kolichestvo-two {
+  margin-top: 66px;
+  margin-right: 238px;
+  padding: 7px 17px 10px 19px;
+  display: flex;
+  align-items: flex-start;
+  border: 1px solid rgba(175, 175, 175, 1);
+}
+.num-1 {
+  font-family: "Raleway";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  color: black;
+  letter-spacing: 0.4px;
+}
+.upravlenie {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 354px;
+}
+.input {
+  margin-top: 27px;
+  margin-right: 16px;
+  padding: 0 129px 23px 0;
+  position: relative;
+}
+.vvedite-kupon {
+  font-family: "Raleway";
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+  color: rgba(134, 134, 134, 1);
+  letter-spacing: 0.34px;
+}
+.line-1 {
+  width: 255px;
+  height: 1px;
+  background-color: black;
+  position: absolute;
+  left: 0;
+  top: 47px;
+}
+.knopka-cta-outline {
+  margin-top: 5px;
+  margin-right: 337px;
+}
+.itogo-two {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  right: -99px;
+  top: 516px;
+}
+.flex-wrapper-one {
+  display: flex;
+  align-items: flex-start;
+}
+.flex-wrapper-one:not(:last-of-type) {
+  margin-bottom: 28px;
+}
+.podytog {
+  font-family: "Raleway";
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+  color: black;
+  letter-spacing: 0.34px;
+}
+.podytog:not(:last-of-type) {
+  margin-right: 20px;
+}
+.frame-38 {
+  background-color: antiquewhite;
+  margin-right: 15px;
+  padding: 16px 51px 17px 31px;
+  display: flex;
+  align-items: center;
+}
+.itogo {
+  font-family: "Raleway";
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 35px;
+  color: black;
+  letter-spacing: 0.5px;
+}
+.itogo:not(:last-of-type) {
+  margin-right: 69px;
+}
+.futer {
+  background-color: antiquewhite;
+  padding: 101px 245px 100px;
+  display: flex;
+  align-items: flex-start;
+}
+.flex-wrapper-three {
+  margin-right: 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame-6 {
+  margin-bottom: 70px;
+  display: flex;
+  align-items: center;
+}
+.dress-1-1 {
+  margin-right: 11px;
+  padding: 0 3.46px 0 3.47px;
+  display: flex;
+  align-items: flex-start;
+  width: 18.07px;
+  height: 25px;
+}
+.vector {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.womazing {
+  font-family: "Raleway";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: normal;
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: 1.6px;
+}
+.ssylki {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.vse-prava-zaschischeny {
+  font-family: "Raleway";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18px;
+  color: black;
+  letter-spacing: 0.26px;
+}
+.vse-prava-zaschischeny:not(:last-of-type) {
+  margin-bottom: 6px;
+}
+.flex-wrapper-four {
+  padding: 3px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flex-wrapper-four:not(:last-of-type) {
+  margin-right: 267px;
+}
+.frame-7 {
+  margin-bottom: 39px;
+  display: flex;
+  align-items: center;
+}
+.glavnaja-two {
+  font-family: "Raleway";
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 21px;
+  color: rgb(110, 156, 159);
+  margin-right: 45px;
+  letter-spacing: 0.3px;
+}
+.magazin {
+  font-family: "Raleway";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 21px;
+  color: black;
+  letter-spacing: 0.3px;
+}
+.magazin:not(:last-of-type) {
+  margin-right: 45px;
+}
+.frame-22 {
+  margin-left: 107px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.pal-to {
+  font-family: "Raleway";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18px;
+  color: black;
+  letter-spacing: 0.26px;
+}
+.pal-to:not(:last-of-type) {
+  margin-bottom: 10px;
+}
+.frame-23 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.num-7-495-823-54-12 {
+  font-family: "Raleway";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 21px;
+  color: black;
+  letter-spacing: 0.3px;
+}
+.num-7-495-823-54-12:not(:last-of-type) {
+  margin-bottom: 9px;
+}
+.socialki {
+  margin-bottom: 30px;
+  margin-left: 68px;
+  display: flex;
+  align-items: center;
+}
+.instagram-1-1 {
+  margin-right: 12px;
+  width: 22px;
+  height: 22px;
+  position: relative;
+}
+.vector-two {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.vector-three {
+  width: 53.91%;
+  height: 53.91%;
+  position: absolute;
+  left: 5.07px;
+  top: 5.07px;
+}
+.group {
+  width: 1.72px;
+  height: 1.72px;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  right: 4.12px;
+  top: 4.13px;
+}
+.vector-four {
+  width: 23.33%;
+  height: 91.3%;
+  margin-right: 12px;
+}
+.twitter-1-1 {
+  padding: 2.16px 0 2.15px;
+  display: flex;
+  align-items: center;
+  width: 23px;
+  height: 18.69px;
+}
+.visa-mastercard-1 {
+  width: 68px;
+  height: 22px;
+  margin-left: 90px;
+}
